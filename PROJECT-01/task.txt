@@ -1,0 +1,19 @@
+// REST API-JSON
+
+
+GET/users- List all user as json (Done )
+Get/user-HTML Document render
+get/api/user-list all user JSON -Done
+GET/user/1-Get the user with ID 1 ,dynamic path parameter
+
+GET/User/2-Get the user with ID 2
+get/api/user/:ID
+
+
+
+post/user-create new user
+
+patch /user/1-Edit the user wit id 1
+
+Delet/user/1-Delet the user with ID 1
+
